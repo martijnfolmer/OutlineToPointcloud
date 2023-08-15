@@ -78,4 +78,4 @@ If we wanted to get more outlandish designs of the chairs, we would have to expl
 vary the design.
 
 
-[A video of the results can be found here](https://www.linkedin.com/posts/martijn-folmer-68026287_computervision-machinelearning-yolo-activity-7079351112297783296-bQqT?utm_source=share&utm_medium=member_desktop) 
+[A video of the results can be found here](https://www.linkedin.com/posts/martijn-folmer-68026287_artificialintelligence-machinelearning-computervision-activity-7097112425585385472-x4mZ?utm_source=share&utm_medium=member_desktop) 
